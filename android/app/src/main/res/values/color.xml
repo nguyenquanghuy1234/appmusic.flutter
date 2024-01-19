@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="backroud">#CCCCCC</color>
+    <color name="tim">#DD06F4</color>
+    <color name="xam">#777272</color>
+    <color name="nen_bottom">#252424</color>
+</resources>
